@@ -260,7 +260,7 @@ button {
 }
 
 .read_more:hover {
-    background: #AB0000;
+    background: #049efd;
     color: #fff;
 }
 
@@ -313,7 +313,7 @@ button {
 /*-- header --*/
 
 .header-area {
-    border-top: #AB0000 solid 40px;
+    border-top: #049efd solid 30px;
     width: 100%;
 }
 
@@ -353,10 +353,10 @@ button {
 }
 
 .site-navbar ul li a:hover {
-    color: #AB0000;
+    color: #049efd;
 }
 .site-navbar ul li a.active {
-    color: #AB0000;
+    color: #049efd;
 }
 
 /* navbar regular css end */
@@ -432,7 +432,7 @@ button {
 /** banner section **/
 
 .full_bg {
-    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/body-care-banner.jpeg);
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/body-care-banner.jpg);
     height: 70vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -593,7 +593,7 @@ button {
 #banner1 .carousel-control-prev:focus,
 #banner1 .carousel-control-prev:hover {
     color: #fff;
-    background: #AB0000;
+    background: #049efd;
 }
 
 
@@ -603,7 +603,7 @@ button {
 /** appointment  **/
 
 .appointment {
-    background: #AB0000;
+    background: #049efd;
     padding-top: 90px;
     padding-bottom: 90px;
 }
@@ -656,7 +656,7 @@ button {
 }
 
 .main_form .send_btn:hover {
-    background-color: #AB0000;
+    background-color: #049efd;
     transition: ease-in all 0.5s;
     box-shadow: 0 0 16px 3px #635d5d38;
     color: #fff;
@@ -718,7 +718,7 @@ button {
 }
 
 #ho_shad:hover .read_more {
-    background: #AB0000;
+    background: #049efd;
     transition: ease-in all 0.5s;
     color: #fff;
 }
@@ -766,7 +766,7 @@ button {
 }
 
 .our_pri {
-    background: #AB0000;
+    background: #049efd;
     padding: 30px 20px 45px 20px;
     position: relative;
     z-index: 99;
@@ -848,7 +848,7 @@ button {
 }
 
 .yellow {
-    background: #AB0000 !important;
+    background: #049efd !important;
 }
 
 .nostrud {
@@ -883,7 +883,7 @@ button {
 /** about section **/
 
 .about {
-    background: #AB0000;
+    background: #049efd;
     padding-top: 90px;
     padding-bottom: 90px;
 }
@@ -978,7 +978,7 @@ margin: 0 auto;
     display: block;
     line-height: 20px;
     font-size: 15px;
-    color: #AB0000;
+    color: #049efd;
 }
 
 .test_box p {
@@ -1021,7 +1021,7 @@ margin: 0 auto;
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-prev:hover {
     color: #000;
-    background: #AB0000;
+    background: #049efd;
 }
 
 
@@ -1060,7 +1060,7 @@ margin: 0 auto;
     content: "";
     width: 15px;
     height: 15px;
-    background: #AB0000;
+    background: #049efd;
     top: 5px;
     border-radius: 20px;
     left: -20px;
@@ -1086,7 +1086,7 @@ ul.menu_footer li a {
 }
 
 ul.menu_footer li a:hover {
-    color: #AB0000;
+    color: #049efd;
 }
 
 .newsl {
@@ -1106,7 +1106,7 @@ ul.menu_footer li a:hover {
 .subsci_btn {
     font-size: 16px;
     transition: ease-in all 0.5s;
-    background-color: #AB0000;
+    background-color: #049efd;
     text-transform: uppercase;
     color: #fff;
     display: block;
@@ -1122,7 +1122,7 @@ ul.menu_footer li a:hover {
 
 .subsci_btn:hover {
     transition: ease-in all 0.5s;
-    color: #AB0000;
+    color: #049efd;
     background-color: #fff;
 }
 
@@ -1144,7 +1144,7 @@ ul.top_infomation li {
 
 ul.top_infomation li i {
     margin-right: 5px;
-    color: #AB0000;
+    color: #049efd;
     text-align: center;
 }
 
@@ -1153,7 +1153,7 @@ ul.top_infomation li a {
 }
 
 ul.top_infomation li a:hover {
-    color: #AB0000;
+    color: #049efd;
 }
 
 .copyright {
@@ -1164,7 +1164,7 @@ ul.top_infomation li a:hover {
 }
 
 .follow h3 {
-    color: #AB0000;
+    color: #049efd;
     font-size: 23px;
     padding-bottom: 20px;
     line-height: 23px;
@@ -1191,7 +1191,7 @@ ul.social_icon li a i {
 ul.social_icon li a i:hover {
     color: #fff;
     transition: ease-in all 0.5s;
-    background: #AB0000;
+    background: #049efd;
 }
 
 .copyright p {
@@ -1208,7 +1208,7 @@ ul.social_icon li a i:hover {
 }
 
 .copyright a:hover {
-    color: #AB0000;
+    color: #049efd;
 }
 
 
